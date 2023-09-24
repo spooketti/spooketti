@@ -1,6 +1,6 @@
 ### I'm Spooketti, I am the one who codes
-![spooketti information](https://github-readme-stats.vercel.app/api?username=spooketti&theme=transparent&show_icons=true)
-[![spooketti languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=spooketti)](https://github.com/spooketti/github-readme-stats)
+![spooketti information](https://github-readme-stats.vercel.app/api?username=spooketti&theme=dark&show_icons=true)
+[![spooketti languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=spooketti&theme=dark)](https://github.com/spooketti/github-readme-stats)
 <!--
 **spooketti/spooketti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

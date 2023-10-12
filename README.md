@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### I work with
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java)](https://skillicons.dev)
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=arduino,blender,firebase,git,github)](https://skillicons.dev)

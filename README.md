@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### I work with
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java)](https://skillicons.dev)
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=arduino,blender,firebase,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,blender,firebase,git,github,replit,vscode)](https://skillicons.dev)

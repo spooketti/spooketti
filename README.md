@@ -1,4 +1,4 @@
-### I'm Spooketti, I am the one who codes
+### I'm Jonathan Liu, Check out my projects
 ![spooketti information](https://github-readme-stats.vercel.app/api?username=spooketti&theme=dark&show_icons=true)
 [![spooketti languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=spooketti&theme=dark)](https://github.com/spooketti/github-readme-stats)
 <!--

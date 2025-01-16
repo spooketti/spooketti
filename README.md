@@ -1,4 +1,4 @@
-### I'm Jonathan Liu, Feel free to see some of my projects!
+### I'm Jonathan Liu, feel free to view my projects!
 ![spooketti information](https://github-readme-stats.vercel.app/api?username=spooketti&theme=dark&show_icons=true)
 [![spooketti languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=spooketti&hide=jupyter%20notebook,scss,makefile,dockerfile,nix,shell,ruby&langs_count=8&layout=compact&theme=transparent)](https://github.com/spooketti/github-readme-stats)
 

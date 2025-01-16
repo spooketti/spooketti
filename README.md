@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I work with
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,bots,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,bots,flask,cs,godot)](https://skillicons.dev)
 ### Tools
 [![My Tools](https://skillicons.dev/icons?i=arduino,blender,firebase,git,ps,github,replit,vscode&perline=3)](https://skillicons.dev)
 ### I'm interested in learning
-[![My Interests](https://skillicons.dev/icons?i=aws,c,cpp,cs,cloudflare,godot,linux,lua,nodejs,react,&perline=3)](https://skillicons.dev)
+[![My Interests](https://skillicons.dev/icons?i=aws,c,cpp,cloudflare,linux,lua,nodejs,react,&perline=3)](https://skillicons.dev)

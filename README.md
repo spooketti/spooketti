@@ -1,4 +1,4 @@
-### I'm Jonathan Liu, Check out my projects
+### I'm Jonathan Liu, Feel free to see some of my projects!
 ![spooketti information](https://github-readme-stats.vercel.app/api?username=spooketti&theme=dark&show_icons=true)
 [![spooketti languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=spooketti&hide=jupyter%20notebook,scss,makefile,dockerfile,nix,shell,ruby&langs_count=8&layout=compact&theme=transparent)](https://github.com/spooketti/github-readme-stats)
 
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I work with
+### Languages I Regularly Work With
 [![My Languages](https://skillicons.dev/icons?i=js,html,css,python,java,cs,&perline=3)](https://skillicons.dev)
-### Tools
+### My Tools and Skills
 [![My Tools + Skills](https://skillicons.dev/icons?i=arduino,blender,firebase,git,ps,github,replit,vscode,idea,matlab,opencv,sqlite,godot,bots,flask,&perline=3)](https://skillicons.dev)
 ### I'm interested in learning
-[![My Interests](https://skillicons.dev/icons?i=aws,c,cpp,cloudflare,linux,lua,nodejs,react,&perline=3)](https://skillicons.dev)
+[![My Interests](https://skillicons.dev/icons?i=aws,c,cpp,cloudflare,linux,lua,nodejs,react,go,&perline=3)](https://skillicons.dev)

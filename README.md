@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Languages I Proficient In
-[![My Languages](https://skillicons.dev/icons?i=js,html,css,python,java,cs,&perline=3)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,js,css,python,java,cs,&perline=3)](https://skillicons.dev)
 ### I'm Open To
 [![My Interests](https://skillicons.dev/icons?i=c,cpp,lua,nodejs,&perline=3)](https://skillicons.dev)
 ### My Tools and Skills

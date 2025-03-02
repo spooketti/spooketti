@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Languages I Proficient In
+### Languages I Am Proficient In
 [![My Languages](https://skillicons.dev/icons?i=html,js,css,python,java,cs,&perline=3)](https://skillicons.dev)
 ### I'm Open To Using
 [![My Interests](https://skillicons.dev/icons?i=c,cpp,lua,nodejs,&perline=3)](https://skillicons.dev)

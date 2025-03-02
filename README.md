@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 ### Languages I Proficient In
 [![My Languages](https://skillicons.dev/icons?i=html,js,css,python,java,cs,&perline=3)](https://skillicons.dev)
-### I'm Open To
+### I'm Open To Using
 [![My Interests](https://skillicons.dev/icons?i=c,cpp,lua,nodejs,&perline=3)](https://skillicons.dev)
 ### My Tools and Skills
 [![My Tools + Skills](https://skillicons.dev/icons?i=arduino,blender,firebase,git,ps,github,replit,vscode,idea,matlab,opencv,sqlite,godot,bots,flask,&perline=3)](https://skillicons.dev)

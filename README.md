@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 ### I'm Open To Using
 [![My Interests](https://skillicons.dev/icons?i=cpp,lua,nodejs,&perline=3)](https://skillicons.dev)
 ### My Tools and Skills
-[![My Tools + Skills](https://skillicons.dev/icons?i=arduino,blender,firebase,git,ps,github,vscode,idea,androidstudio,replit,matlab,opencv,sqlite,godot,unity,robloxstudio,bots,flask,selenium,md&perline=3)](https://skillicons.dev)
+[![My Tools + Skills](https://skillicons.dev/icons?i=arduino,blender,firebase,git,ps,github,vscode,idea,androidstudio,replit,matlab,opencv,sqlite,godot,unity,robloxstudio,bots,flask,selenium,gcp,md&perline=3)](https://skillicons.dev)
 ### I'm Interested In Learning
 [![My Interests](https://skillicons.dev/icons?i=aws,cloudflare,linux,react,go,c,&perline=3)](https://skillicons.dev)

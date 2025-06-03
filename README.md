@@ -1,5 +1,5 @@
 ### Jonathan Liu
-![spooketti information](https://github-readme-stats.vercel.app/api?username=spooketti&theme=dark&show_icons=true,&hide_border=true)
+![spooketti information](https://github-readme-stats.vercel.app/api?username=spooketti&theme=dark&show_icons=true,&hide_border=true,&rank_icon=github)
 ![spooketti's Streak](https://github-readme-streak-stats.herokuapp.com/?user=spooketti&theme=dark&hide_border=true)
 [![spooketti languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=spooketti&hide=jupyter%20notebook,scss,makefile,dockerfile,nix,shell,ruby&langs_count=8&layout=compact&theme=dark&hide_border=true)](https://github.com/spooketti/github-readme-stats)
 

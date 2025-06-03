@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 [![My Tools + Skills](https://skillicons.dev/icons?i=arduino,blender,firebase,git,ps,github,vscode,idea,androidstudio,replit,matlab,opencv,sqlite,godot,unity,robloxstudio,bots,flask,selenium,gcp,md&perline=3)](https://skillicons.dev)
 ### I'm Interested In Learning
 [![My Interests](https://skillicons.dev/icons?i=aws,cloudflare,linux,react,go,c,&perline=3)](https://skillicons.dev)
+
+### Pinned Repositories
+GitHub only allows for 6 repositories to be pinned per account, so these add to the other 6.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spooketti&repo=Phylogenetic-Taxonomy-Comparison&theme=dark)](https://github.com/spooketti/Phylogenetic-Taxonomy-Comparison)

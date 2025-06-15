@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 ### Pinned Repositories
 GitHub only allows for 6 repositories to be pinned per account, so these add to the other 6.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spooketti&repo=Phylogenetic-Taxonomy-Comparison&theme=darcula)](https://github.com/spooketti/Phylogenetic-Taxonomy-Comparison)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spooketti&repo=OPALS-Spine&theme=darcula)](https://github.com/spookettiOPALS-Spine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spooketti&repo=OPALS-Spine&theme=darcula)](https://github.com/spooketti/OPALS-Spine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spooketti&repo=RelayServer&theme=darcula)](https://github.com/spooketti/RelayServer)

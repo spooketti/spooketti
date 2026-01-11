@@ -1,6 +1,6 @@
 ### Jonathan Liu
 ![spooketti information](https://github-readme-stats.vercel.app/api?username=spooketti&theme=dark&show_icons=true,&hide_border=true,&rank_icon=github)
-[![spooketti's Streak](https://streak-stats.demolab.com?user=spooketti&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=spooketti&theme=java-dark)](https://git.io/streak-stats)
 [![spooketti languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=spooketti&hide=jupyter%20notebook,mathematica,scss,makefile,dockerfile,nix,ruby&langs_count=8&layout=compact&theme=dark&hide_border=true)](https://github.com/spooketti/github-readme-stats)
 
 Hello! I’m Jonathan Liu, a student interested in robotics, software engineering, game development, and electrical engineering! I taught myself programming principles in Python and C# in the sixth grade and have improved my skills ever since. I have worked in various environments, such as full-stack web development, game development through Unity andGodot, robotics through WPILib and Arduino, Python bot automation, and various other applications of coding! I see computer science as a universal language across environments, so even if I am not proficient in a certain framework right now, I am open to learning!

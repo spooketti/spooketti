@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![My Interests](https://skillicons.dev/icons?i=aws,cloudflare,react,c,arch,&perline=3)](https://skillicons.dev)
 
 ### Pinned Repositories
-GitHub only allows for 6 repositories to be pinned per account, so these add to the other 6.
+Key repositories that couldn't fit in GitHub's 6 repo limit
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spooketti&repo=Phylogenetic-Taxonomy-Comparison&theme=darcula)](https://github.com/spooketti/Phylogenetic-Taxonomy-Comparison)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spooketti&repo=OPALS-Spine&theme=darcula)](https://github.com/spooketti/OPALS-Spine)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Superposition-Development&repo=Relay&theme=darcula)](https://github.com/Superposition-Development/Relay)

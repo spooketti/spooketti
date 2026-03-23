@@ -37,5 +37,5 @@ Key repositories that couldn't fit in GitHub's 6 repo limit
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Superposition-Development&repo=Relay&theme=darcula)](https://github.com/Superposition-Development/Relay)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Superposition-Development&repo=RelayServer&theme=darcula)](https://github.com/Superposition-Development/RelayServer)
 
-The repository for it remains private for now, but here's a Gource video for the Runtime Terror 2025-2026 DECODE codebase
+Runtime Terror 2025-2026 DECODE
 [![RTT Decode 2025-2026 Kickoff-Regionals](https://img.youtube.com/vi/i63-r6JZbpg/0.jpg)](https://www.youtube.com/watch?v=i63-r6JZbpg)

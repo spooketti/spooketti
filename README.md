@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 ### I'm Interested In Learning
 [![My Interests](https://skillicons.dev/icons?i=aws,cloudflare,react,c,arch,&perline=3)](https://skillicons.dev)
 
-### Pinned Repositories
-Key repositories that couldn't fit in GitHub's 6 repo limit
+### Key Repositories
+Extension of pinned repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spooketti&repo=Phylogenetic-Taxonomy-Comparison&theme=darcula)](https://github.com/spooketti/Phylogenetic-Taxonomy-Comparison)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spooketti&repo=OPALS-Spine&theme=darcula)](https://github.com/spooketti/OPALS-Spine)

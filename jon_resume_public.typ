@@ -23,6 +23,7 @@
   margin: 0cm,
   height: 11in,
   width: 8.5in,
+  fill:background_1
 )
 
 //height: 1020pt,
@@ -240,8 +241,9 @@ CSP/CSA, Honors Engineering", "2022-2026")
     - Repairing software at competitions
       - San Diego Regional 2024/2025 
       - Battle At The Border 2023/2024 competitions
-   - Dynamic "On The Fly" path generation with autonomous obstacle avoidance (2025)
+   - Dynamic "On The Fly" path generation with autonomous obstacle avoidance
    - Applied control theory (PID/FeedForward) for motor function
+   - 2025 Postseason Differential Drive GoKart
   ]
 
   #heading([Personal Projects])
@@ -250,6 +252,8 @@ CSP/CSA, Honors Engineering", "2022-2026")
     #text(size: 9pt)[
     - Spectator: WIP procedurally generated horror game using Godot with C\#
     - Relay: Open source full stack chat system emphasizing privacy via self-hosted web servers
+      - Webserver using Go/SQL, other versions in Python/C/etc.
+      - Web client with plans of a Go/C CLI client
     ]
     #secondary-justified-header("Personal Projects", "spooketti on GitHub")
     #text(size: 9pt)[

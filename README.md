@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![My Interests](https://skillicons.dev/icons?i=aws,cloudflare,react,c,&perline=3)](https://skillicons.dev)
 
 ### Key Repositories
-Extension of pinned repositories
+Extends pinned repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spooketti&repo=Phylogenetic-Taxonomy-Comparison&theme=darcula)](https://github.com/spooketti/Phylogenetic-Taxonomy-Comparison)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spooketti&repo=OPALS-Spine&theme=darcula)](https://github.com/spooketti/OPALS-Spine)

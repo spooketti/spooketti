@@ -33,7 +33,7 @@ Runtime Terror 2025-2026 DECODE
 
 Codebase
 
-[![RTT Decode 2025-2026 Kickoff-Regionals](https://img.youtube.com/vi/i63-r6JZbpg/0.jpg)](https://www.youtube.com/watch?v=i63-r6JZbpg)
+[![RTT Decode 2025-2026 Kickoff-Regionals](https://img.youtube.com/vi/uVpYWgpU7kM/0.jpg)](https://www.youtube.com/watch?v=uVpYWgpU7kM)
 
 
 Worlds Reveal

@@ -36,6 +36,6 @@ Codebase
 [![RTT Decode 2025-2026 Kickoff-Regionals](https://img.youtube.com/vi/uVpYWgpU7kM/0.jpg)](https://www.youtube.com/watch?v=uVpYWgpU7kM)
 
 
-Worlds Reveal
+Robot Reveal
 
 [![RTT Decode 2025-2026 Robot Worlds Reveal](https://img.youtube.com/vi/DVTnH8idaEc/0.jpg)](https://www.youtube.com/watch?v=DVTnH8idaEc)

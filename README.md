@@ -7,7 +7,7 @@
 
 <!--
 
-Fun fact: you need to read the source code to read this text 
+Fun fact: you need to read the source code to read this text
 while you're at it check out charlie burg's lovesong and christian leaves darling
 -->
 ### Languages I Am Proficient In

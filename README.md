@@ -6,7 +6,6 @@
 <!--Hello! I’m Jonathan Liu, a student interested in robotics, software engineering, game development, and electrical engineering! I taught myself programming principles in Python and C# in the sixth grade and have improved my skills ever since. I have worked in various environments, such as full-stack web development, game development through Unity andGodot, robotics through WPILib and Arduino, Python bot automation, and various other applications of coding! I see computer science as a universal language across environments, so even if I am not proficient in a certain framework right now, I am open to learning! -->
 
 <!--
-
 Fun fact: you need to read the source code to read this text
 while you're at it check out charlie burg's lovesong and christian leaves darling
 -->

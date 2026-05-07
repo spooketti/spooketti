@@ -8,7 +8,6 @@
 <!--
 **spooketti/spooketti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 - ⚡ Fun fact: you need to read the source code to read this text 
 while you're at it check out charlie burg's lovesong and christian leaves darling
 -->

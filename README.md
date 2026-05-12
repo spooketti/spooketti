@@ -18,7 +18,7 @@ while you're at it check out charlie burg's lovesong and christian leaves darlin
 ### I'm Interested In Learning
 [![My Interests](https://skillicons.dev/icons?i=aws,cloudflare,react,c,&perline=3)](https://skillicons.dev)
 
-### Extra Pinned Repositories
+### Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spooketti&repo=Phylogenetic-Taxonomy-Comparison&theme=darcula)](https://github.com/spooketti/Phylogenetic-Taxonomy-Comparison)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spooketti&repo=OPALS-Spine&theme=darcula)](https://github.com/spooketti/OPALS-Spine)

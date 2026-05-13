@@ -1,9 +1,9 @@
 # Jonathan Liu
+
 ### Statistics
 ![spooketti information](https://github-readme-stats.vercel.app/api?username=spooketti&theme=dark&show_icons=true,&hide_border=true,&rank_icon=github)
 [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=spooketti&theme=java-dark)](https://git.io/streak-stats)
 [![spooketti languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=spooketti&hide=jupyter%20notebook,mathematica,scss,makefile,dockerfile,nix,ruby&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/spooketti/github-readme-stats)
-
 
 ### Languages I Am Proficient In
 [![My Languages](https://skillicons.dev/icons?i=html,js,css,python,java,cs,&perline=3)](https://skillicons.dev)

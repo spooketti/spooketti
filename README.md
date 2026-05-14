@@ -5,10 +5,6 @@
 [![spooketti languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=spooketti&hide=jupyter%20notebook,mathematica,scss,makefile,dockerfile,nix,ruby&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/spooketti/github-readme-stats)
 
 
-<!--
-Fun fact: you need to read the source code to read this text
-while you're at it check out charlie burg's lovesong and christian leaves darling
--->
 ### Languages I Am Proficient In
 [![My Languages](https://skillicons.dev/icons?i=html,js,css,python,java,cs,&perline=3)](https://skillicons.dev)
 ### I'm Open To Using

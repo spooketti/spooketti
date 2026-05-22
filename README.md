@@ -31,3 +31,9 @@ Codebase
 Robot Reveal
 
 [![RTT Decode 2025-2026 Robot Worlds Reveal](https://img.youtube.com/vi/DVTnH8idaEc/0.jpg)](https://www.youtube.com/watch?v=DVTnH8idaEc)
+
+Media (Robot Interview / Demo)
+
+[FUN Interview](https://www.youtube.com/watch?v=9pjv1uvyWvU)
+
+

@@ -161,14 +161,13 @@
   #small-justified-header("B.S. Robotic Engineering Technology", "2026-2030")
 
     #secondary-justified-header("Del Norte High School", "San Diego")
-  #small-justified-header("GPA 4.08, AP: Calculus AB/BC, Physics Mech/ENM
-CSP/CSA, Honors Engineering", "2022-2026")
+  #small-justified-header("High School Diploma \nCertification in Software and Systems Development \nCertification in Engineering Design", "2022-2026")
   ])
 
   #heading[Skills]
   #secondary-justified-header("Hard Skills","")
   - REST API (JavaScript,Python Flask,Go)
-  - Data Analysis (OpenCV,MatLab,Linux)
+  - Data Analysis (OpenCV,CUDA,MatLab,Linux)
   - Robotics (Java,Arduino C++,Autodesk Eagle/CAD)
   - Game Dev (C\#,Unity/Godot,Lua, Blender, Photoshop)
 
@@ -204,6 +203,7 @@ CSP/CSA, Honors Engineering", "2022-2026")
   #text(size: 9pt)[
     - Implemented camera AprilTag relocalization / color masking pipelines
     - Programming endgame hanging in 2025/2026, ball sorting, etc.
+    - 2026 World Championships, 11th Qualifier, Edison Playoffs
       ]
 
   #secondary-justified-header("Phylogenetic Research Intern", "2025 Summer")

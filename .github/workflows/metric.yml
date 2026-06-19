@@ -56,7 +56,7 @@ jobs:
                 plugin_languages_analysis_timeout_repositories: 7.5
                 plugin_languages_categories: markup, programming
                 plugin_languages_colors: github
-                plugin_languages_limit: 8
+                plugin_languages_limit: 9
                 plugin_languages_recent_categories: markup, programming
                 plugin_languages_recent_days: 14
                 plugin_languages_recent_load: 300
@@ -79,24 +79,6 @@ jobs:
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 14
 
-      - name: 🈷️ Languages activity - Details
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.plugin.languages.details.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 4
-          output_action: commit
-          delay: 60
-          user: spooketti
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
-
       - name: 🈷️ Languages activity - Indepth analysis
         uses: lowlighter/metrics@latest
         with:
@@ -109,7 +91,7 @@ jobs:
             gnuplot
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: 4
+          plugin_languages_limit: 9
           plugin_languages_analysis_timeout: 15
           output_action: commit
           delay: 60
@@ -251,17 +233,3 @@ jobs:
           delay: 60
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
-      # - name: 🙋 Introduction - Repository introduction
-      #   uses: lowlighter/metrics@latest
-      #   with:
-      #     filename: metrics/metrics.plugin.introduction.repository.svg
-      #     token: ${{ secrets.METRICS_TOKEN }}
-      #     template: repository
-      #     repo: spooketti/fivenights
-      #     base: header
-      #     plugin_introduction: yes
-      #     output_action: commit
-      #     delay: 120
-      #     user: spooketti
-      #     plugins_errors_fatal: yes
-      #   if: ${{ success() || failure() }}

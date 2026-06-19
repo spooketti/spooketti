@@ -33,9 +33,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: spooketti/Phylogenetic-Taxonomy-Comparison
+          plugin_repositories_featured: spooketti/Phylogenetic-Taxonomy-Comparison, spooketti/OPALS-Spine, spooketti/ScratchScrape, spooketti/YT-RPC, Runtime-Terror-22105/Terror481, Runtime-Terror-22105/el-skibo, Superposition-Development/Relay, Superposition-Development/RelayServer, Team-Optix-3749/Team-3749-2025, Team-Optix-3749/Team-3749-2024
           output_action: commit
-          delay: 60
           user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}

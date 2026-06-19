@@ -96,7 +96,7 @@ jobs:
           plugin_starlists_only: Awesome
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
@@ -114,7 +114,7 @@ jobs:
           plugin_languages_limit: 4
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
@@ -133,7 +133,7 @@ jobs:
           plugin_languages_limit: 4
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
       - name: 🈷️ Languages activity - Indepth analysis
@@ -152,7 +152,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
       - name: ✨ Stargazers - Using classic charts
@@ -164,7 +164,7 @@ jobs:
           plugin_stargazers: yes
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
       - name: ✨ Stargazers - Using graph charts
@@ -177,7 +177,7 @@ jobs:
           plugin_stargazers_charts_type: graph
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
@@ -191,7 +191,7 @@ jobs:
           plugin_lines_delay: 30
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
       - name: 👨‍💻 Lines of code changed - Repositories and diff history
@@ -211,7 +211,7 @@ jobs:
             +lowlighter/metrics
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
@@ -225,7 +225,7 @@ jobs:
           plugin_topics_limit: 12
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
       - name: 📌 Starred topics - Icons
@@ -239,7 +239,7 @@ jobs:
           plugin_topics_mode: icons
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
@@ -255,7 +255,7 @@ jobs:
           config_timezone: Europe/Paris
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
       - name: 💡 Coding habits and activity - Recent activity charts
@@ -270,7 +270,7 @@ jobs:
           config_timezone: Europe/Paris
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
@@ -284,7 +284,7 @@ jobs:
           plugin_repositories_featured: lowlighter/metrics
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
       - name: 📓 Featured repositories - Pinned repositories
@@ -297,7 +297,7 @@ jobs:
           plugin_repositories_pinned: 2
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
@@ -313,7 +313,7 @@ jobs:
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
@@ -328,7 +328,7 @@ jobs:
           plugin_code_load: 400
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
@@ -355,7 +355,7 @@ jobs:
           plugin_introduction: yes
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
@@ -373,7 +373,7 @@ jobs:
           use_mocked_data: yes
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
       - name: 🕹️ Steam - Profile and detailed game history
@@ -388,6 +388,6 @@ jobs:
           use_mocked_data: yes
           output_action: none
           delay: 120
-          user: lowlighter
+          user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}

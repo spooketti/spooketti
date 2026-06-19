@@ -43,27 +43,27 @@ jobs:
       # - name: 🈷️ Languages activity
       #   uses: lowlighter/metrics@latest
       #   with:
-      #           use_prebuilt_image: yes
-      #           filename: metrics/metrics.languages.svg
-      #           token: ${{ secrets.METRICS_TOKEN }}
-      #           plugins_errors_fatal: yes
-      #           user: spooketti
-      #           template: classic
-      #           config_timezone: America/Los_Angeles
-      #           base: ""
-      #           plugin_languages: yes
-      #           plugin_languages_analysis_timeout: 15
-      #           plugin_languages_analysis_timeout_repositories: 7.5
-      #           plugin_languages_categories: markup, programming
-      #           plugin_languages_colors: github
-      #           plugin_languages_limit: 9
-      #           plugin_languages_recent_categories: markup, programming
-      #           plugin_languages_recent_days: 14
-      #           plugin_languages_recent_load: 300
-      #           plugin_languages_sections: most-used
-      #           plugin_languages_threshold: 0%
+      #     use_prebuilt_image: yes
+      #     filename: metrics/metrics.languages.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     plugins_errors_fatal: yes
+      #     user: spooketti
+      #     template: classic
+      #     config_timezone: America/Los_Angeles
+      #     base: ""
+      #     plugin_languages: yes
+      #     plugin_languages_analysis_timeout: 15
+      #     plugin_languages_analysis_timeout_repositories: 7.5
+      #     plugin_languages_categories: markup, programming
+      #     plugin_languages_colors: github
+      #     plugin_languages_limit: 9
+      #     plugin_languages_recent_categories: markup, programming
+      #     plugin_languages_recent_days: 14
+      #     plugin_languages_recent_load: 300
+      #     plugin_languages_sections: most-used
+      #     plugin_languages_threshold: 0%
 
-      - name: ✨ Stargazers - Using classic charts
+      - name: ✨ Stargazers
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics.plugin.stargazers.svg
@@ -76,7 +76,7 @@ jobs:
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
-      - name: 👨‍💻 Lines of code changed - Compact display in base plugin
+      - name: 👨‍💻 Lines of code changed
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics.plugin.lines.svg
@@ -89,7 +89,8 @@ jobs:
           user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
-      - name: 👨‍💻 Lines of code changed - Repositories and diff history
+
+      - name: 👨‍💻 Lines of code changed history
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics.plugin.lines.history.svg
@@ -110,7 +111,7 @@ jobs:
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
-      - name: 💡 Coding habits and activity - Mildly interesting facts
+      - name: 💡 Coding habits facts
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics.plugin.habits.facts.svg
@@ -119,8 +120,11 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
+          output_action: commit
+          delay: 60
           user: spooketti
-      - name: Recent activity charts
+
+      - name: 📈 Recent activity charts
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics.plugin.habits.charts.svg
@@ -134,8 +138,11 @@ jobs:
           plugin_habits_from: 1000
           plugin_habits_days: 30
           config_timezone: America/Los_Angeles
+          output_action: commit
+          delay: 60
+          user: spooketti
 
-      - name: 📓 Featured repositories - Featured repositories
+      - name: 📓 Featured repositories
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics.plugin.repositories.svg
@@ -148,7 +155,8 @@ jobs:
           user: spooketti
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
-      - name: 📓 Featured repositories - Pinned repositories
+
+      - name: 📌 Pinned repositories
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics.plugin.repositories.pinned.svg
@@ -162,18 +170,20 @@ jobs:
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
-      - name: JavaScript or TypeScript snippet of the day
+      - name: 💻 Code snippet of the day
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.code.svg
+          filename: metrics/metrics.plugin.code.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_code: yes
           plugin_code_languages: javascript, typescript, html, css, scss
           plugin_code_load: 400
+          output_action: commit
+          delay: 60
           user: spooketti
 
-      - name: 🙋 Introduction - Organization introduction
+      - name: 🙋 Organization introduction
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/metrics.plugin.introduction.svg
@@ -186,14 +196,16 @@ jobs:
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
-      - name: Recent activity
-      uses: lowlighter/metrics@latest
-      with:
-        filename: metrics/metrics.plugin.activity.svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        base: ""
-        plugin_activity: yes
-        plugin_activity_limit: 5
-        plugin_activity_days: 0
-        plugin_activity_filter: issue, pr, release, fork, review, ref/create
-        user: spooketti
+      - name: 📰 Recent activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review
+          output_action: commit
+          delay: 60
+          user: spooketti

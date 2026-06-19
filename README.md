@@ -18,7 +18,7 @@
     <td><img src="/metrics/metrics.plugin.lines.history.svg" alt="📜 Lines history"></td>
   </tr>
   <tr>
-    <td><img src="/metrics/metrics.plugin.lines.svg" alt="📏 Lines of code"></td>
+    <td><img src="/metrics/metrics.plugin.activity.svg"></td>
     <td><img src="/metrics/metrics.plugin.repositories.pinned.svg" alt="📌 Pinned repositories"></td>
   </tr>
   <tr>

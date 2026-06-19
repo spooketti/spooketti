@@ -19,7 +19,6 @@
   </tr>
   <tr>
     <td><img src="/metrics/metrics.plugin.activity.svg"></td>
-    <td><img src="/metrics/metrics.plugin.repositories.pinned.svg" alt="📌 Pinned repositories"></td>
   </tr>
   <tr>
     <td><img src="/metrics/metrics.plugin.repositories.svg" alt="📚 Repository activity"></td>

@@ -1,7 +1,5 @@
 # Jonathan Liu
 
-# Under Construction
-
 <table>
   <tr>
     <td><img src="/metrics/metrics.base.svg" alt="🗃️ Base content"></td>

@@ -19,7 +19,7 @@ jobs:
                 filename: metrics/metrics.base.svg
                 token: ${{ secrets.METRICS_TOKEN }}
                 plugins_errors_fatal: yes
-                user: lunbun
+                user: spooketti
                 template: classic
                 config_timezone: America/Los_Angeles
 
@@ -32,7 +32,7 @@ jobs:
                 filename: metrics/metrics.isocalendar.svg
                 token: ${{ secrets.METRICS_TOKEN }}
                 plugins_errors_fatal: yes
-                user: lunbun
+                user: spooketti
                 template: classic
                 config_timezone: America/Los_Angeles
 
@@ -47,7 +47,7 @@ jobs:
                 filename: metrics/metrics.languages.svg
                 token: ${{ secrets.METRICS_TOKEN }}
                 plugins_errors_fatal: yes
-                user: lunbun
+                user: spooketti
                 template: classic
                 config_timezone: America/Los_Angeles
 
@@ -71,7 +71,7 @@ jobs:
                 filename: metrics/metrics.stargazers.svg
                 token: ${{ secrets.METRICS_TOKEN }}
                 plugins_errors_fatal: yes
-                user: lunbun
+                user: spooketti
                 template: classic
                 config_timezone: America/Los_Angeles
 

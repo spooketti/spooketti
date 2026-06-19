@@ -7,6 +7,34 @@
   </tr>
   <tr>
     <td><img src="/metrics/metrics.languages.svg" alt="🈷️ Languages activity"></td>
+    <td><img src="/metrics/metrics.plugin.code.svg" alt="💻 Code activity"></td>
+  </tr>
+  <tr>
+    <td><img src="/metrics/metrics.plugin.habits.charts.svg" alt="📊 Coding habits charts"></td>
+    <td><img src="/metrics/metrics.plugin.habits.facts.svg" alt="📈 Coding habits facts"></td>
+  </tr>
+  <tr>
+    <td><img src="/metrics/metrics.plugin.introduction.svg" alt="👋 Introduction"></td>
+    <td><img src="/metrics/metrics.plugin.languages.details.svg" alt="🗂️ Language details"></td>
+  </tr>
+  <tr>
+    <td><img src="/metrics/metrics.plugin.languages.indepth.svg" alt="🔍 Languages in-depth"></td>
+    <td><img src="/metrics/metrics.plugin.lines.history.svg" alt="📜 Lines history"></td>
+  </tr>
+  <tr>
+    <td><img src="/metrics/metrics.plugin.lines.svg" alt="📏 Lines of code"></td>
+    <td><img src="/metrics/metrics.plugin.repositories.pinned.svg" alt="📌 Pinned repositories"></td>
+  </tr>
+  <tr>
+    <td><img src="/metrics/metrics.plugin.repositories.svg" alt="📚 Repository activity"></td>
+    <td><img src="/metrics/metrics.plugin.stargazers.graph.svg" alt="⭐ Stargazers graph"></td>
+  </tr>
+  <tr>
+    <td><img src="/metrics/metrics.plugin.stargazers.svg" alt="✨ Stargazers details"></td>
+    <td><img src="/metrics/metrics.plugin.starlists.languages.svg" alt="🌟 Starred languages"></td>
+  </tr>
+  <tr>
+    <td><img src="/metrics/metrics.plugin.topics.icons.svg" alt="🏷️ Topic icons"></td>
     <td><img src="/metrics/metrics.stargazers.svg" alt="✨ Stargazers"></td>
   </tr>
 </table>

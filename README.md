@@ -5,6 +5,17 @@
 [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=spooketti&theme=java-dark)](https://git.io/streak-stats)
 [![spooketti languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=spooketti&hide=jupyter%20notebook,mathematica,scss,makefile,dockerfile,nix,ruby&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/spooketti/github-readme-stats)
 
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/spooketti/spooketti/metrics/metrics.base.svg" alt="🗃️ Base content"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/spooketti/spooketti/metrics/metrics.isocalendar.svg" alt="📅 Isometric commit calendar"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/spooketti/spooketti/metrics/metrics.languages.svg" alt="🈷️ Languages activity"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/spooketti/spooketti/metrics/metrics.stargazers.svg" alt="✨ Stargazers"></td>
+  </tr>
+</table>
+
 ### Languages I Am Proficient In
 [![My Languages](https://skillicons.dev/icons?i=html,js,css,python,java,cs,&perline=3)](https://skillicons.dev)
 ### I'm Open To Using

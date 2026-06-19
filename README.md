@@ -23,22 +23,13 @@
   </tr>
   <tr>
     <td><img src="/metrics/metrics.plugin.repositories.svg" alt="📚 Repository activity"></td>
-    <td><img src="/metrics/metrics.plugin.stargazers.graph.svg" alt="⭐ Stargazers graph"></td>
+    <td><img src="https://skillicons.dev/icons?i=html,js,css,python,java,cs,cpp,lua,nodejs,go,arch,arduino,blender,firebase,git,ps,github,vscode,idea,androidstudio,replit,matlab,opencv,sqlite,godot,unity,robloxstudio,bots,flask,selenium,gcp,md,bash,linux,windows,ubuntu&perline=8"></td>
   </tr>
   <tr>
     <td><img src="/metrics/metrics.plugin.stargazers.svg" alt="✨ Stargazers details"></td>
     <td> <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=spooketti&theme=java-dark"> </td>
   </tr>
 </table>
-
-### Languages I Am Proficient In
-[![My Languages](https://skillicons.dev/icons?i=html,js,css,python,java,cs,&perline=3)](https://skillicons.dev)
-### I'm Open To Using
-[![My Interests](https://skillicons.dev/icons?i=cpp,lua,nodejs,go,arch&perline=3)](https://skillicons.dev)
-### My Tools and Skills
-[![My Tools + Skills](https://skillicons.dev/icons?i=arduino,blender,firebase,git,ps,github,vscode,idea,androidstudio,replit,matlab,opencv,sqlite,godot,unity,robloxstudio,bots,flask,selenium,gcp,md,bash,linux,windows,ubuntu&perline=7)](https://skillicons.dev)
-### I'm Interested In Learning
-[![My Interests](https://skillicons.dev/icons?i=aws,cloudflare,react,c,&perline=3)](https://skillicons.dev)
 
 ### Pinned Repositories
 

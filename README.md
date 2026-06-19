@@ -19,6 +19,20 @@
   </tr>
   <tr>
     <td><img src="/metrics/metrics.plugin.activity.svg"></td>
+    <td>
+      Robot Videos <br>
+<a href="https://www.youtube.com/watch?v=uVpYWgpU7kM">
+    <img
+        src="https://img.youtube.com/vi/uVpYWgpU7kM/0.jpg"
+        alt="RTT Decode 2025-2026 Robot Worlds Reveal">
+</a>
+        <a href="https://www.youtube.com/watch?v=DVTnH8idaEc">
+    <img
+        src="https://img.youtube.com/vi/DVTnH8idaEc/0.jpg"
+        alt="RTT Decode 2025-2026 Robot Worlds Reveal">
+</a>
+    </td>
+    
   </tr>
   <tr>
     <td><img src="/metrics/metrics.plugin.repositories.svg" alt="📚 Repository activity"></td>
@@ -33,25 +47,3 @@
     <td> <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=spooketti&theme=java-dark"> </td>
   </tr>
 </table>
-
-### Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spooketti&repo=Phylogenetic-Taxonomy-Comparison&theme=darcula)](https://github.com/spooketti/Phylogenetic-Taxonomy-Comparison)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spooketti&repo=OPALS-Spine&theme=darcula)](https://github.com/spooketti/OPALS-Spine)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Superposition-Development&repo=Relay&theme=darcula)](https://github.com/Superposition-Development/Relay)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Superposition-Development&repo=RelayServer&theme=darcula)](https://github.com/Superposition-Development/RelayServer)
-
-# 22105 Runtime Terror 2025-2026 DECODE 
-
-Codebase
-
-[![RTT Decode 2025-2026 Kickoff-Regionals](https://img.youtube.com/vi/uVpYWgpU7kM/0.jpg)](https://www.youtube.com/watch?v=uVpYWgpU7kM)
-
-
-Robot Reveal
-
-[![RTT Decode 2025-2026 Robot Worlds Reveal](https://img.youtube.com/vi/DVTnH8idaEc/0.jpg)](https://www.youtube.com/watch?v=DVTnH8idaEc)
-
-Media (Robot Interview / Demo)
-
-[FUN Interview](https://www.youtube.com/watch?v=9pjv1uvyWvU)

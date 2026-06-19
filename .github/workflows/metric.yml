@@ -40,64 +40,29 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      - name: 🈷️ Languages activity
-        uses: lowlighter/metrics@latest
-        with:
-                use_prebuilt_image: yes
-                filename: metrics/metrics.languages.svg
-                token: ${{ secrets.METRICS_TOKEN }}
-                plugins_errors_fatal: yes
-                user: spooketti
-                template: classic
-                config_timezone: America/Los_Angeles
-                base: ""
-                plugin_languages: yes
-                plugin_languages_analysis_timeout: 15
-                plugin_languages_analysis_timeout_repositories: 7.5
-                plugin_languages_categories: markup, programming
-                plugin_languages_colors: github
-                plugin_languages_limit: 9
-                plugin_languages_recent_categories: markup, programming
-                plugin_languages_recent_days: 14
-                plugin_languages_recent_load: 300
-                plugin_languages_sections: most-used
-                plugin_languages_threshold: 0%
+      # - name: 🈷️ Languages activity
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #           use_prebuilt_image: yes
+      #           filename: metrics/metrics.languages.svg
+      #           token: ${{ secrets.METRICS_TOKEN }}
+      #           plugins_errors_fatal: yes
+      #           user: spooketti
+      #           template: classic
+      #           config_timezone: America/Los_Angeles
+      #           base: ""
+      #           plugin_languages: yes
+      #           plugin_languages_analysis_timeout: 15
+      #           plugin_languages_analysis_timeout_repositories: 7.5
+      #           plugin_languages_categories: markup, programming
+      #           plugin_languages_colors: github
+      #           plugin_languages_limit: 9
+      #           plugin_languages_recent_categories: markup, programming
+      #           plugin_languages_recent_days: 14
+      #           plugin_languages_recent_load: 300
+      #           plugin_languages_sections: most-used
+      #           plugin_languages_threshold: 0%
 
-      - name: ✨ Stargazers
-        uses: lowlighter/metrics@latest
-        with:
-          use_prebuilt_image: yes
-          filename: metrics/metrics.stargazers.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugins_errors_fatal: yes
-          user: spooketti
-          template: classic
-          config_timezone: America/Los_Angeles
-          base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
-          plugin_stargazers_days: 14
-
-      - name: 🈷️ Languages activity - Indepth analysis
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.plugin.languages.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_indepth: yes
-          plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: 9
-          plugin_languages_analysis_timeout: 15
-          output_action: commit
-          delay: 60
-          user: spooketti
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
       - name: ✨ Stargazers - Using classic charts
         uses: lowlighter/metrics@latest
         with:
@@ -105,19 +70,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
-          output_action: commit
-          delay: 60
-          user: spooketti
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
-      - name: ✨ Stargazers - Using graph charts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.plugin.stargazers.graph.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: graph
           output_action: commit
           delay: 60
           user: spooketti

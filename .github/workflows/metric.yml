@@ -82,7 +82,7 @@ jobs:
       - name: 🈷️ Languages activity - Most used
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.starlists.languages.svg
+          filename: metrics/metrics.plugin.starlists.languages.svg
           token: NOT_NEEDED
           base: ""
           plugin_starlists: yes
@@ -99,7 +99,7 @@ jobs:
       - name: 🈷️ Languages activity - Details
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.languages.details.svg
+          filename: metrics/metrics.plugin.languages.details.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -117,7 +117,7 @@ jobs:
       - name: 🈷️ Languages activity - Indepth analysis
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.languages.indepth.svg
+          filename: metrics/metrics.plugin.languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -136,7 +136,7 @@ jobs:
       - name: ✨ Stargazers - Using classic charts
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.stargazers.svg
+          filename: metrics/metrics.plugin.stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
@@ -148,7 +148,7 @@ jobs:
       - name: ✨ Stargazers - Using graph charts
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.stargazers.graph.svg
+          filename: metrics/metrics.plugin.stargazers.graph.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
@@ -162,7 +162,7 @@ jobs:
       - name: 👨‍💻 Lines of code changed - Compact display in base plugin
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.lines.svg
+          filename: metrics/metrics.plugin.lines.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: repositories
           plugin_lines: yes
@@ -175,7 +175,7 @@ jobs:
       - name: 👨‍💻 Lines of code changed - Repositories and diff history
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.lines.history.svg
+          filename: metrics/metrics.plugin.lines.history.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_lines: yes
@@ -196,7 +196,7 @@ jobs:
       - name: 📌 Starred topics - Labels
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.topics.svg
+          filename: metrics/metrics.plugin.topics.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
@@ -209,7 +209,7 @@ jobs:
       - name: 📌 Starred topics - Icons
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.topics.icons.svg
+          filename: metrics/metrics.plugin.topics.icons.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
@@ -224,7 +224,7 @@ jobs:
       - name: 💡 Coding habits and activity - Mildly interesting facts
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.facts.svg
+          filename: metrics/metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
@@ -249,7 +249,7 @@ jobs:
       - name: 📓 Featured repositories - Featured repositories
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.repositories.svg
+          filename: metrics/metrics.plugin.repositories.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
@@ -262,7 +262,7 @@ jobs:
       - name: 📓 Featured repositories - Pinned repositories
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.repositories.pinned.svg
+          filename: metrics/metrics.plugin.repositories.pinned.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
@@ -276,7 +276,7 @@ jobs:
       - name: ♐ Random code snippet - JavaScript or TypeScript snippet of the day
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.code.svg
+          filename: metrics/metrics.plugin.code.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_code: yes
@@ -291,7 +291,7 @@ jobs:
       - name: 🙋 Introduction - Organization introduction
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.introduction.svg
+          filename: metrics/metrics.plugin.introduction.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: github
           base: header
@@ -303,7 +303,7 @@ jobs:
       - name: 🙋 Introduction - Repository introduction
         uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.introduction.repository.svg
+          filename: metrics/metrics.plugin.introduction.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
           template: repository
           repo: fivenights

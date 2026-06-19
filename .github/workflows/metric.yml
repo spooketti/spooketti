@@ -26,6 +26,20 @@ jobs:
           config_timezone: America/Los_Angeles
           base: header, activity, community, repositories, metadata
 
+      - name: 📓 Featured repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics.plugin.repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: spooketti/Phylogenetic-Taxonomy-Comparison
+          output_action: commit
+          delay: 60
+          user: spooketti
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+
       - name: 📅 Isometric commit calendar
         uses: lowlighter/metrics@latest
         with:
@@ -142,34 +156,6 @@ jobs:
           delay: 60
           user: spooketti
 
-      - name: 📓 Featured repositories
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.plugin.repositories.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_featured: lowlighter/metrics
-          output_action: commit
-          delay: 60
-          user: spooketti
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
-
-      - name: 📌 Pinned repositories
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.plugin.repositories.pinned.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_pinned: 2
-          output_action: commit
-          delay: 60
-          user: spooketti
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
-
       - name: 💻 Code snippet of the day
         uses: lowlighter/metrics@latest
         with:
@@ -177,7 +163,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_code: yes
-          plugin_code_languages: javascript, html, css, python, go, java,
+          plugin_code_languages: javascript, html, css, python, go, java
           plugin_code_load: 400
           output_action: commit
           delay: 60

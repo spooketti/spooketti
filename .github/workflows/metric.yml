@@ -79,10 +79,6 @@ jobs:
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 14
 
-      # -------------------------
-      # Additional plugin outputs
-      # -------------------------
-
       - name: 🈷️ Languages activity - Most used
         uses: lowlighter/metrics@master
         with:
@@ -118,24 +114,6 @@ jobs:
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
 
-      - name: 🈷️ Languages activity - Recently used
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.languages.recent.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_sections: recently-used
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 4
-          output_action: none
-          delay: 120
-          user: spooketti
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
       - name: 🈷️ Languages activity - Indepth analysis
         uses: lowlighter/metrics@master
         with:
@@ -244,7 +222,7 @@ jobs:
         if: ${{ success() || failure() }}
 
       - name: 💡 Coding habits and activity - Mildly interesting facts
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.facts.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -252,27 +230,21 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-          config_timezone: Europe/Paris
-          output_action: none
-          delay: 120
           user: spooketti
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
-      - name: 💡 Coding habits and activity - Recent activity charts
-        uses: lowlighter/metrics@master
+      - name: Recent activity charts
+        uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.charts.svg
+          filename: metrics/metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          config_timezone: Europe/Paris
-          output_action: none
-          delay: 120
-          user: spooketti
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
+          plugin_habits_from: 1000
+          plugin_habits_days: 30
+          config_timezone: America/Los_Angeles
 
       - name: 📓 Featured repositories - Featured repositories
         uses: lowlighter/metrics@master
@@ -295,22 +267,6 @@ jobs:
           base: ""
           plugin_repositories: yes
           plugin_repositories_pinned: 2
-          output_action: none
-          delay: 120
-          user: spooketti
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
-
-      - name: 📰 Recent activity - Recent activity
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
           output_action: none
           delay: 120
           user: spooketti
@@ -350,42 +306,9 @@ jobs:
           filename: metrics.plugin.introduction.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
           template: repository
-          repo: metrics
+          repo: fivenights
           base: header
           plugin_introduction: yes
-          output_action: none
-          delay: 120
-          user: spooketti
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
-
-      - name: 🕹️ Steam - Recently played games
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.steam.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_steam_token: MOCKED_TOKEN
-          plugin_steam: yes
-          plugin_steam_user: "0"
-          plugin_steam_sections: recently-played
-          plugin_steam_achievements_limit: 0
-          use_mocked_data: yes
-          output_action: none
-          delay: 120
-          user: spooketti
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
-      - name: 🕹️ Steam - Profile and detailed game history
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.steam.full.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_steam_token: MOCKED_TOKEN
-          plugin_steam: yes
-          plugin_steam_user: "0"
-          use_mocked_data: yes
           output_action: none
           delay: 120
           user: spooketti

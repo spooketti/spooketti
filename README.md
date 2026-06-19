@@ -6,8 +6,8 @@
     <td><img src="/metrics/metrics.isocalendar.svg" alt="📅 Isometric commit calendar"></td>
   </tr>
   <tr>
-    <td><img src="/metrics/metrics.languages.svg" alt="🈷️ Languages activity"></td>
     <td><img src="/metrics/metrics.plugin.code.svg" alt="💻 Code activity"></td>
+    <td><img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=spooketti&hide=jupyter%20notebook,mathematica,scss,makefile,dockerfile,nix,ruby&langs_count=10&layout=compact&theme=dark&hide_border=true"> </td>
   </tr>
   <tr>
     <td><img src="/metrics/metrics.plugin.habits.charts.svg" alt="📊 Coding habits charts"></td>
@@ -15,10 +15,6 @@
   </tr>
   <tr>
     <td><img src="/metrics/metrics.plugin.introduction.svg" alt="👋 Introduction"></td>
-    <td><img src="/metrics/metrics.plugin.languages.details.svg" alt="🗂️ Language details"></td>
-  </tr>
-  <tr>
-    <td><img src="/metrics/metrics.plugin.languages.indepth.svg" alt="🔍 Languages in-depth"></td>
     <td><img src="/metrics/metrics.plugin.lines.history.svg" alt="📜 Lines history"></td>
   </tr>
   <tr>
@@ -31,15 +27,9 @@
   </tr>
   <tr>
     <td><img src="/metrics/metrics.plugin.stargazers.svg" alt="✨ Stargazers details"></td>
-    <td><img src="/metrics/metrics.stargazers.svg" alt="✨ Stargazers"></td>
+    <td> <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=spooketti&theme=java-dark"> </td>
   </tr>
 </table>
-
-### Statistics
-![spooketti information](https://github-readme-stats.vercel.app/api?username=spooketti&theme=dark&show_icons=true,&hide_border=true,&rank_icon=github)
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=spooketti&theme=java-dark)](https://git.io/streak-stats)
-[![spooketti languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=spooketti&hide=jupyter%20notebook,mathematica,scss,makefile,dockerfile,nix,ruby&langs_count=10&layout=compact&theme=dark&hide_border=true)](https://github.com/spooketti/github-readme-stats)
-
 
 ### Languages I Am Proficient In
 [![My Languages](https://skillicons.dev/icons?i=html,js,css,python,java,cs,&perline=3)](https://skillicons.dev)

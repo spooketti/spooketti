@@ -31,10 +31,6 @@
   </tr>
   <tr>
     <td><img src="/metrics/metrics.plugin.stargazers.svg" alt="✨ Stargazers details"></td>
-    <td><img src="/metrics/metrics.plugin.starlists.languages.svg" alt="🌟 Starred languages"></td>
-  </tr>
-  <tr>
-    <td><img src="/metrics/metrics.plugin.topics.icons.svg" alt="🏷️ Topic icons"></td>
     <td><img src="/metrics/metrics.stargazers.svg" alt="✨ Stargazers"></td>
   </tr>
 </table>

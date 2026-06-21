@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="/metrics/metrics.base.svg" alt="🗃️ Base content"></td>
+    <td><img src="/metrics/metrics.base.svg" width=800 alt="🗃️ Base content"></td>
     <td><img src="/metrics/metrics.isocalendar.svg" alt="📅 Isometric commit calendar"></td>
   </tr>
   <tr>

@@ -1,5 +1,4 @@
 # Jonathan Liu
-
 <table>
   <tr>
     <td><img src="/metrics/metrics.base.svg" width=800 alt="🗃️ Base content"></td>
@@ -15,7 +14,8 @@
   </tr> -->
   <tr>
     <td><img src="/metrics/metrics.plugin.introduction.svg" alt="👋 Introduction"></td>
-    <td><img src="/metrics/metrics.plugin.lines.history.svg" alt="📜 Lines history"></td>
+    <!-- <td><img src="/metrics/metrics.plugin.lines.history.svg" alt="📜 Lines history"></td> -->
+    <td> <img src="https://komarev.com/ghpvc/?username=spooketti" width=200> </td>
   </tr>
   <tr>
     <td><img src="https://media.licdn.com/dms/image/v2/D562DAQHU-bZ1skgjxA/profile-treasury-document-images_1920/B56Z1phzl8KkAs-/1/1775591964377?e=1782950400&v=beta&t=T_yfcN-RdNyN3VV1tTL7sYfKF_X-ySDCYiqu5oPxPf0"></td>

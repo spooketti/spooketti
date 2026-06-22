@@ -9,16 +9,16 @@
     <td><img src="/metrics/metrics.plugin.code.svg" alt="💻 Code activity"></td>
     <td><img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=spooketti&hide=jupyter%20notebook,mathematica,scss,makefile,dockerfile,nix,ruby&langs_count=10&layout=compact&theme=dark&hide_border=true"> </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td><img src="/metrics/metrics.plugin.habits.charts.svg" alt="📊 Coding habits charts"></td>
     <td><img src="/metrics/metrics.plugin.habits.facts.svg" alt="📈 Coding habits facts"></td>
-  </tr>
+  </tr> -->
   <tr>
     <td><img src="/metrics/metrics.plugin.introduction.svg" alt="👋 Introduction"></td>
     <td><img src="/metrics/metrics.plugin.lines.history.svg" alt="📜 Lines history"></td>
   </tr>
   <tr>
-    <td><img src="/metrics/metrics.plugin.activity.svg"></td>
+    <td><img src="https://media.licdn.com/dms/image/v2/D562DAQHU-bZ1skgjxA/profile-treasury-document-images_1920/B56Z1phzl8KkAs-/1/1775591964377?e=1782950400&v=beta&t=T_yfcN-RdNyN3VV1tTL7sYfKF_X-ySDCYiqu5oPxPf0"></td>
     <td>
       Robot Videos <br>
 <a href="https://www.youtube.com/watch?v=uVpYWgpU7kM">

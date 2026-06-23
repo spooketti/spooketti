@@ -32,7 +32,6 @@
         alt="RTT Decode 2025-2026 Robot Worlds Reveal">
 </a>
     </td>
-    
   </tr>
   <tr>
     <td><img src="/metrics/metrics.plugin.repositories.svg" alt="📚 Repository activity"></td>

@@ -43,6 +43,6 @@
   </tr>
   <tr>
     <td><img src="/metrics/metrics.plugin.stargazers.svg" alt="✨ Stargazers details"></td>
-    <td> <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=spooketti&theme=java-dark"> </td>
+    <td><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=spooketti&theme=java-dark"> </td>
   </tr>
 </table>

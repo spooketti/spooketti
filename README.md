@@ -26,7 +26,7 @@
         src="https://img.youtube.com/vi/uVpYWgpU7kM/0.jpg"
         alt="RTT Decode 2025-2026 Robot Worlds Reveal">
 </a>
-        <a href="https://www.youtube.com/watch?v=DVTnH8idaEc">
+<a href="https://www.youtube.com/watch?v=DVTnH8idaEc">
     <img
         src="https://img.youtube.com/vi/DVTnH8idaEc/0.jpg"
         alt="RTT Decode 2025-2026 Robot Worlds Reveal">

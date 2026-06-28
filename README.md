@@ -8,13 +8,8 @@
     <td><img src="/metrics/metrics.plugin.code.svg" alt="💻 Code activity"></td>
     <td><img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=spooketti&hide=jupyter%20notebook,mathematica,scss,makefile,dockerfile,nix,ruby&langs_count=10&layout=compact&theme=dark&hide_border=true"> </td>
   </tr>
-  <!-- <tr>
-    <td><img src="/metrics/metrics.plugin.habits.charts.svg" alt="📊 Coding habits charts"></td>
-    <td><img src="/metrics/metrics.plugin.habits.facts.svg" alt="📈 Coding habits facts"></td>
-  </tr> -->
   <tr>
     <td><img src="/metrics/metrics.plugin.introduction.svg" alt="👋 Introduction"></td>
-    <!-- <td><img src="/metrics/metrics.plugin.lines.history.svg" alt="📜 Lines history"></td> -->
     <td> <img src="https://komarev.com/ghpvc/?username=spooketti" width=200> </td>
   </tr>
   <tr>

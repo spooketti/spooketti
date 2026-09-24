@@ -160,8 +160,8 @@
     #secondary-justified-header("Purdue University", "West Lafayette")
   #small-justified-header("B.S. Robotic Engineering Technology", "2026-2030")
 
-    #secondary-justified-header("Del Norte High School", "San Diego")
-  #small-justified-header("High School Diploma \nCertification in Software and Systems Development \nCertification in Engineering Design", "2022-2026")
+      #secondary-justified-header("Del Norte High School", "San Diego")
+    #small-justified-header("High School Diploma \nCertification in Software and Systems Development \nCertification in Engineering Design", "2022-2026")
   ])
 
   #heading[Skills]

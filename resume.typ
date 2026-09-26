@@ -87,7 +87,7 @@
   dates: dates-helper(start-date: "May 2025", end-date: "Aug 2025"),
 )
 - Computed and analyzed differences amongst .newick trees with Python
-- Constructed phylogenetic trees comparing UCLA's UMAP Hypocreales taxomony to NCBI  
+- Constructed phylogenetic trees comparing UCLA's UMAP database's Hypocreales taxomony to NCBI  
 
 #work(
   title: "Surgery System Research Intern",
@@ -108,7 +108,7 @@
   company: "UC San Diego",
   dates: dates-helper(start-date: "Oct 2024", end-date: "May 2025"),
 )
-- Scraped 35,000+ Scratch projects via Python web-scraper for program code in .json format
+- Scraped 35,000+ Scratch projects via Python web-scraper for program code in .json format; saved in database with SQLite
 - Quantified trends in program code based on "opmode" block frequency in project code
 - Presented abstract and findings in poster format in a program symposium
   - Insight On K-12 Computer Science Education Trends Through Scratch Project Analysis
@@ -141,7 +141,7 @@
   url: "github.com/Superposition-Development/Relay",
 )
 - Maintaing based full-stack Go terminal application for real time communication alongside WebRTC based calling
-  - Operates off of decentralized servers and open source to give users privacy by routing without a third party
+  - Operates off of decentralized HTTP servers and SQL database; open source to give users privacy by routing without a third party
 
 // == Extracurricular Activities
 
@@ -169,4 +169,4 @@
 
 == Skills
 - *Languages*: HTML/CSS, JavaScript, Java, C\#, Go, Python, C++, MatLab, SQL, Bash, Lua
-- *Technologies*: Git, OpenCV, CUDA, Linux, Arduino, CAD, Blender, Photoshop
+- *Technologies*: Git, OpenCV, CUDA, Linux, Arduino, CAD, Blender, Photoshop, Databases

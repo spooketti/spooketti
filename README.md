@@ -32,7 +32,7 @@
     <td><img src="/metrics/metrics.plugin.repositories.svg" alt="📚 Repository activity"></td>
     <td>Web <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,sqlite,firebase,selenium&perline=8"><br>
         SWE <img src="https://skillicons.dev/icons?i=java,cs,cpp,go,lua,arduino,git,github&perline=8"> <br>
-        Tools <img src="https://skillicons.dev/icons?i=vscode,idea,replit,androidstudio,gcp,linux,ubuntu,windows"> <br>
+        Tools <img src="https://skillicons.dev/icons?i=vscode,idea,replit,androidstudio,gcp,linux,ubuntu,windows"><br>
         Misc <img src="https://skillicons.dev/icons?i=godot,unity,robloxstudio,blender,opencv,matlab,bash,bots">
     </td>
   </tr>
